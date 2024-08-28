@@ -2,6 +2,7 @@
 
 عشان بنقدر الشاي ك نقاشيين عملنالكم أكستنشن تفكركم كل شوية تشربوا شاي  :D
 
+
 <!-- ## Features
 - Periodic motivational messages every 30 minutes
 - Rotating set of motivational messages -->
@@ -16,7 +17,7 @@
 2. No additional setup or configuration is required.
 
 ## Welcome Image
-![Welcome Image](media/20.jpg)
+![Welcome Image](media/20.png)
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any improvements.
