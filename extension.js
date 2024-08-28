@@ -1,7 +1,7 @@
 const vscode = require('vscode');
 
-// Interval for notifications: 30 min 
-const INTERVAL = 30 * 60 * 1000; 
+// Interval for notifications: 30 minutes
+const INTERVAL = 30 * 60 * 1000; // 30 minutes
 
 let intervalId;
 const messages = [
